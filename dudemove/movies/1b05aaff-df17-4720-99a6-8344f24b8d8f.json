@@ -1,0 +1,28 @@
+{
+  "id": "1b05aaff-df17-4720-99a6-8344f24b8d8f",
+  "title": "Changeland",
+  "slug": "changeland",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vaf93xaAmPXcGWDNuQNXe9OYhnl.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2019,
+  "duration": 86,
+  "rating": 5.6,
+  "description": "Follow two estranged best friends on an epic, life-changing adventure in Thailand, as they're reminded that there's no problem that friendship and a few rounds in a Muay Thai boxing ring can't fix.",
+  "created_at": "2026-07-22T15:31:15.836Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 5262,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

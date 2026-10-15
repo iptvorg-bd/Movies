@@ -1,0 +1,28 @@
+{
+  "id": "cda8c0a4-3546-48d0-b620-35439ab448a1",
+  "title": "Sethupathi",
+  "slug": "sethupathi",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wsJ165gSPgtWK4lkch3bxFuFzMu.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Tamil",
+  "release_year": 2016,
+  "duration": 121,
+  "rating": null,
+  "description": "Sethupathi, an inspector, investigates the murder of a cop and finds that Vaathiyar, a big shot, is responsible for the killing. He arrests Vaathiyar, but an unfortunate incident that has a connection to the case he is investigating, puts his career in jeopardy.",
+  "created_at": "2026-07-31T07:23:46.322Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 8268,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

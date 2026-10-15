@@ -1,0 +1,28 @@
+{
+  "id": "91a708b8-cf09-484f-972b-0cbdfe9545ae",
+  "title": "Kakuda",
+  "slug": "kakuda",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/kc16Hwkst3GOfjqdfglSO1b3UjN.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2024,
+  "duration": 117,
+  "rating": 5.2,
+  "description": "When her husband Sunny gets cursed by the terrifying ghost, Kakuda, Indira joins hands with a ghost hunter to find a solution.",
+  "created_at": "2026-07-22T15:10:22.019Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    }
+  ],
+  "_index": 1630,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

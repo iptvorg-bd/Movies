@@ -1,0 +1,28 @@
+{
+  "id": "a32387c6-d15f-46b1-b04f-eba7adc0bd62",
+  "title": "Premam",
+  "slug": "premam",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wfMgsfDrtouYOM6MbrkHtU96Xij.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Malayalam",
+  "release_year": 2015,
+  "duration": 157,
+  "rating": null,
+  "description": "Three stages in George's life, and three girls he encounters in each stage.",
+  "created_at": "2026-07-31T07:35:29.552Z",
+  "genres": [
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    }
+  ],
+  "_index": 8575,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

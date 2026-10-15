@@ -1,0 +1,32 @@
+{
+  "id": "510b63c3-7498-46ec-b60f-3739c79172a0",
+  "title": "Sicario",
+  "slug": "sicario",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "Spanish",
+  "release_year": 2015,
+  "duration": 122,
+  "rating": 7.4,
+  "description": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+  "created_at": "2026-07-22T15:44:33.652Z",
+  "genres": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    }
+  ],
+  "_index": 8325,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

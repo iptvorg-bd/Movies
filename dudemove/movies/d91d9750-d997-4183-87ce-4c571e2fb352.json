@@ -1,0 +1,32 @@
+{
+  "id": "d91d9750-d997-4183-87ce-4c571e2fb352",
+  "title": "The Cleaner",
+  "slug": "the-cleaner",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/vqBGCe4sdvScFSJVNkDxHAMDTYk.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2021,
+  "duration": 93,
+  "rating": 5.391,
+  "description": "When middle-aged house cleaner Buck Enderly takes on an eccentric new client, he gets roped into locating her estranged son. Buck tracks down the disturbed young man but in another twist of fate becomes an accomplice to a violent crime. Buck must then decide whether to hide the truth from his family or come clean with everyone and move on with his life",
+  "created_at": "2026-07-22T15:17:15.272Z",
+  "genres": [
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    }
+  ],
+  "_index": 4055,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

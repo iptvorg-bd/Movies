@@ -1,0 +1,24 @@
+{
+  "id": "00d63f1a-fa54-4edd-843a-30c139467277",
+  "title": "Cash Box",
+  "slug": "cash-box",
+  "thumbnail_url": null,
+  "is_premium": false,
+  "country": null,
+  "language": "Hindi",
+  "release_year": 2021,
+  "duration": 6,
+  "rating": null,
+  "description": "Threatened with eviction, a man finds a mysterious box that turns objects into cash.",
+  "created_at": "2026-07-22T15:16:45.413Z",
+  "genres": [
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 4147,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

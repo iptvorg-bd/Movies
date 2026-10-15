@@ -1,0 +1,32 @@
+{
+  "id": "9334d6e9-5943-4cd6-add6-d121cbd09204",
+  "title": "Dual",
+  "slug": "dual",
+  "thumbnail_url": "https://image.tmdb.org/t/p/w500/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg",
+  "is_premium": false,
+  "country": null,
+  "language": "English",
+  "release_year": 2022,
+  "duration": 95,
+  "rating": 6,
+  "description": "A terminally ill woman opts for a cloning procedure to ease her loss on her friends and family. When she makes a miraculous recovery, her attempts to have her clone decommissioned fail and lead to a court-mandated duel to the death.",
+  "created_at": "2026-07-22T15:14:30.712Z",
+  "genres": [
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    }
+  ],
+  "_index": 3301,
+  "stream_url_1080p": "https://ftp.ctgfun.com/Others/BB%20BKUP/The%20Butchers%20Blade%20(2026)%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Butchers%20Blade%20%282026%29%20Hindi%20Chinese%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
