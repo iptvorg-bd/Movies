@@ -1,0 +1,52 @@
+{
+  "id": "cinexo-mb-gangster-returns-2015",
+  "title": "Gangster Returns (2015)",
+  "short_title": "Gangster Returns (2015)",
+  "tag": "MOVIE",
+  "kind": "mbx-sl-movie",
+  "type": "movie",
+  "link": "https://moviebaaz.baby/movies/gangster-returns/",
+  "url": "https://moviebaaz.baby/movies/gangster-returns/",
+  "bg": "https://i.postimg.cc/3JjxzMZZ/Picsart-22-12-30-23-28-14-711.jpg",
+  "backdrop": "https://i.postimg.cc/3JjxzMZZ/Picsart-22-12-30-23-28-14-711.jpg",
+  "poster": "https://i.postimg.cc/zvLQm1WX/FB-IMG-1672420565057.jpg",
+  "meta": "Bangla",
+  "lang": "Bangla",
+  "quality": "WEB-DL",
+  "categories": [
+    "Movie",
+    "Hollywood"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "ott": [
+    "Prime"
+  ],
+  "year": "2015",
+  "date": "2015",
+  "tmdb": "8.3",
+  "duration": "130 Min.",
+  "country": "Bangladesh",
+  "hls_sources": [],
+  "downloads": [
+    {
+      "res": "480p SD",
+      "size": "500MB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/uwygarhn8v/"
+    },
+    {
+      "res": "720p HD ('+L.length+')",
+      "size": "2.5GB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/ncwk01womu/"
+    }
+  ],
+  "trailer": "di-nj7r1QvA",
+  "detailChecked": true,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

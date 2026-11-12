@@ -1,0 +1,57 @@
+{
+  "id": "cinexo-mb-end-counter-2024",
+  "title": "End Counter (2024)",
+  "short_title": "End Counter (2024)",
+  "tag": "DRAMA",
+  "kind": "mbx-sl-movie",
+  "type": "movie",
+  "link": "https://moviebaaz.baby/movies/end-counter-2024/",
+  "url": "https://moviebaaz.baby/movies/end-counter-2024/",
+  "bg": "https://i.postimg.cc/15wXD6Kc/172684074066ed7fa480c48.webp",
+  "backdrop": "https://i.postimg.cc/15wXD6Kc/172684074066ed7fa480c48.webp",
+  "poster": "https://i.postimg.cc/g2QPgZCf/Picsart-24-09-28-23-55-21-277.jpg",
+  "meta": "Bangla",
+  "lang": "Bangla",
+  "quality": "WEB-DL",
+  "categories": [
+    "Movie",
+    "Hollywood"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "ott": [
+    "Prime"
+  ],
+  "year": "2024",
+  "date": "2024",
+  "tmdb": "8.3",
+  "duration": "130 Min.",
+  "country": "Bangladesh",
+  "hls_sources": [],
+  "downloads": [
+    {
+      "res": "480p SD",
+      "size": "350 MB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/haaissm4we/"
+    },
+    {
+      "res": "720p HD",
+      "size": "550 MB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/nffzdc8lue/"
+    },
+    {
+      "res": "1080p HD ('+L.length+')",
+      "size": "1.1 GB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/ikdat6wfak/"
+    }
+  ],
+  "detailChecked": true,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

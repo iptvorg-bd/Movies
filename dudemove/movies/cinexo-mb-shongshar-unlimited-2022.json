@@ -1,0 +1,52 @@
+{
+  "id": "cinexo-mb-shongshar-unlimited-2022",
+  "title": "Shongshar Unlimited (2022)",
+  "short_title": "Shongshar Unlimited (2022)",
+  "tag": "MOVIE",
+  "kind": "mbx-sl-movie",
+  "type": "movie",
+  "link": "https://moviebaaz.baby/movies/shongshar-unlimited/",
+  "url": "https://moviebaaz.baby/movies/shongshar-unlimited/",
+  "bg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16-k4GcgNxJ2x3lrcagD1DjcUcWVDootVUA&usqp=CAU",
+  "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16-k4GcgNxJ2x3lrcagD1DjcUcWVDootVUA&usqp=CAU",
+  "poster": "https://image.tmdb.org/t/p/w185/gS8mMsip2PpE7KTzhu6Zugf6oLK.jpg",
+  "meta": "Bangla",
+  "lang": "Bangla",
+  "quality": "WEB-DL",
+  "categories": [
+    "Movie",
+    "Hollywood"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "ott": [
+    "Prime"
+  ],
+  "year": "2022",
+  "date": "2022",
+  "tmdb": "8.3",
+  "duration": "130 Min.",
+  "country": "Bangladesh",
+  "hls_sources": [],
+  "downloads": [
+    {
+      "res": "720p HD",
+      "size": "200MB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/aptfdduytf/"
+    },
+    {
+      "res": "1080p HD ('+L.length+')",
+      "size": "500MB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/ggj5ooryna/"
+    }
+  ],
+  "trailer": "9yrm63Ksu4U",
+  "detailChecked": true,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

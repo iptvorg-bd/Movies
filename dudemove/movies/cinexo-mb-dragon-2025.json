@@ -1,0 +1,58 @@
+{
+  "id": "cinexo-mb-dragon-2025",
+  "title": "Dragon (2025)",
+  "short_title": "Dragon (2025)",
+  "tag": "MOVIE",
+  "kind": "mbx-sl-movie",
+  "type": "movie",
+  "link": "https://moviebaaz.baby/movies/dragon-2025/",
+  "url": "https://moviebaaz.baby/movies/dragon-2025/",
+  "bg": "https://i.postimg.cc/2S6DWK4t/Dragon-ac6acde0-def1-11ef-8d3b-69192b9fb9f8.jpg",
+  "backdrop": "https://i.postimg.cc/2S6DWK4t/Dragon-ac6acde0-def1-11ef-8d3b-69192b9fb9f8.jpg",
+  "poster": "https://image.tmdb.org/t/p/original/tnUDoA9gAUyJoNuUPcL0R8rr2zF.jpg",
+  "meta": "Hindi",
+  "lang": "Hindi",
+  "quality": "WEB-Rip",
+  "categories": [
+    "Movie",
+    "Hollywood"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "ott": [
+    "Prime"
+  ],
+  "year": "2025",
+  "date": "2025",
+  "tmdb": "8.3",
+  "duration": "130 Min.",
+  "country": "India",
+  "hls_sources": [],
+  "downloads": [
+    {
+      "res": "480p SD",
+      "size": "550 MB",
+      "lang": "Hindi",
+      "url": "https://moviebaaz.baby/links/eabm9wxqpa/"
+    },
+    {
+      "res": "720p HD",
+      "size": "1.2 GB",
+      "lang": "Hindi",
+      "url": "https://moviebaaz.baby/links/n9tj1lsm3t/"
+    },
+    {
+      "res": "1080p HD ('+L.length+')",
+      "size": "2.4 GB",
+      "lang": "Hindi",
+      "url": "https://moviebaaz.baby/links/iwfwmngi6z/"
+    }
+  ],
+  "trailer": "qIBZlbJ7NUE",
+  "detailChecked": true,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

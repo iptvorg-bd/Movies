@@ -1,0 +1,69 @@
+{
+  "id": "cinexo-mb-annaye-atyachar-2004",
+  "title": "Annaye Atyachar (2004)",
+  "short_title": "Annaye Atyachar (2004)",
+  "tag": "MOVIE",
+  "kind": "mbx-sl-movie",
+  "type": "movie",
+  "link": "https://moviebaaz.baby/movies/annaye-atyachar/",
+  "url": "https://moviebaaz.baby/movies/annaye-atyachar/",
+  "bg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyMV5L8IhOazbnG_cgexFpRW3WbT78J8plQ&usqp=CAU",
+  "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyMV5L8IhOazbnG_cgexFpRW3WbT78J8plQ&usqp=CAU",
+  "poster": "https://image.tmdb.org/t/p/w185/27lhVPu79wiFhE8FO7K49n7r1qD.jpg",
+  "meta": "Bangla",
+  "lang": "Bangla",
+  "quality": "WEB-DL",
+  "categories": [
+    "Movie",
+    "Hollywood"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "ott": [
+    "Prime"
+  ],
+  "year": "2004",
+  "date": "2004",
+  "tmdb": "8.3",
+  "duration": "130 Min.",
+  "country": "Bangladesh",
+  "hls_sources": [],
+  "downloads": [
+    {
+      "res": "480p SD",
+      "size": "450MB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/o7rm8vhuii/"
+    },
+    {
+      "res": "720p HD",
+      "size": "1.3GB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/vwrrkbpgen/"
+    },
+    {
+      "res": "1080p HD",
+      "size": "2.9GB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/ipehcyo843/"
+    },
+    {
+      "res": "1080p HD",
+      "size": "5.5GB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/nt28bxjbki/"
+    },
+    {
+      "res": "1080p HD ('+L.length+')",
+      "size": "8.9GB",
+      "lang": "Bangla",
+      "url": "https://moviebaaz.baby/links/xwtunzzvaa/"
+    }
+  ],
+  "detailChecked": true,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cinexo-mb-shyam-singha-roy-2021",
+  "title": "Shyam Singha Roy (2021)",
+  "short_title": "Shyam Singha Roy (2021)",
+  "tag": "MOVIE",
+  "kind": "mbx-sl-movie",
+  "type": "movie",
+  "link": "https://moviebaaz.baby/movies/shyam-singha-roy/",
+  "url": "https://moviebaaz.baby/movies/shyam-singha-roy/",
+  "bg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzO7WixgYbPmP0G6B_Eni2GxO4w6LclArWw&usqp=CAU",
+  "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzO7WixgYbPmP0G6B_Eni2GxO4w6LclArWw&usqp=CAU",
+  "poster": "https://i.postimg.cc/Rhjc77cR/s-Bp9-UD2-Cdpk-So9-E0u-DTPUq4ael-F-683x1024.jpg",
+  "meta": "Dual Audio",
+  "lang": "Dual Audio",
+  "quality": "WEB-DL",
+  "categories": [
+    "Movie",
+    "Hollywood"
+  ],
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "ott": [
+    "Prime"
+  ],
+  "year": "2021",
+  "date": "2021",
+  "tmdb": "8.3",
+  "duration": "130 Min.",
+  "country": "India",
+  "hls_sources": [],
+  "downloads": [
+    {
+      "res": "480p SD",
+      "size": "550MB",
+      "lang": "Dual Audio",
+      "url": "https://moviebaaz.baby/links/c2sbrab4fy/"
+    },
+    {
+      "res": "720p HD",
+      "size": "1.5GB",
+      "lang": "Dual Audio",
+      "url": "https://moviebaaz.baby/links/ik3atecubm/"
+    },
+    {
+      "res": "1080p HD ('+L.length+')",
+      "size": "3GB",
+      "lang": "Dual Audio",
+      "url": "https://moviebaaz.baby/links/ca6m3qi2sp/"
+    }
+  ],
+  "detailChecked": true,
+  "stream_url_1080p": null,
+  "stream_url_720p": null,
+  "stream_url_480p": null
+}
