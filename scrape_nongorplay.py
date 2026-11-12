@@ -12,11 +12,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # Set console encoding to UTF-8 for Windows compatibility
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE_URL = "https://www.nongorplay.live"
+# Updated Base URL and Headers
+BASE_URL = "https://moviebaaz.baby"
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-    'Referer': 'https://www.nongorplay.live/movies'
+    'Referer': f'{BASE_URL}/movies'
 }
 
 # Output structure inside the "dudemove" folder
@@ -52,7 +53,6 @@ def fetch_watch_details(movie):
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=HEADERS)
-            # Add a small delay to prevent overloading
             time.sleep(0.3)
             with urllib.request.urlopen(req, timeout=10) as res:
                 html = res.read().decode('utf-8')
@@ -199,7 +199,7 @@ def main():
         print(f"[{page}/{max_pages}] Fetching movie list...")
         movies, _ = get_movies_from_page(page)
         all_movies.extend(movies)
-        time.sleep(0.5) # respect rate limit
+        time.sleep(0.5)
         
     print(f"\nCollected metadata for {len(all_movies)} movies.")
     print("Now fetching streaming/source URLs (this is multithreaded)...")
@@ -209,11 +209,9 @@ def main():
     completed_count = 0
     final_movies = []
     
-    # Add a temporary index to preserve the original API order
     for index, movie in enumerate(all_movies):
         movie['_index'] = index
         
-    # Use ThreadPoolExecutor for fast scraping
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = {executor.submit(fetch_watch_details, movie): movie for movie in all_movies}
         
@@ -222,11 +220,9 @@ def main():
             final_movies.append(movie)
             completed_count += 1
             
-            # Print progress
             sys.stdout.write(f"\rProgress: {completed_count}/{len(all_movies)} movies processed...")
             sys.stdout.flush()
             
-    # Sort back to preserve the original order and remove the temporary index
     final_movies.sort(key=lambda x: x.get('_index', 0))
     for movie in final_movies:
         movie.pop('_index', None)
